@@ -19,3 +19,4 @@ client.on('message', (message) => onMessage(message, client));
 
 
 client.login(process.env.TOKEN);
+
