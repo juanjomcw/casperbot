@@ -1,0 +1,2 @@
+worker: node burroman.js
+
